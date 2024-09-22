@@ -26,4 +26,10 @@ The main objective is to create scatter plots and perform **Exploratory Data Ana
 ## 🖥️ How to Use:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/diabetes-data-analysis.git
+   git clone https://github.com/zeineb61romthana/diabet_prediction.git
+2. **Install the required libraries**:
+   ```bash
+   pip install pandas matplotlib seaborn
+
+3. **Install the required libraries**:
+   **Run the notebook diabete.ipynb to explore and visualize the data.**:
