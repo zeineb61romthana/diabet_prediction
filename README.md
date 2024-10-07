@@ -17,9 +17,9 @@ The main objective is to create scatter plots and perform **Exploratory Data Ana
 
 ## 🛠️ Tools & Libraries:
 - **Pandas**: For data manipulation and analysis.
-- **Matplotlib**: For static visualizations.
-- **Seaborn**: For enhanced visualizations.
-- **Jupyter Notebook**: For an interactive coding environment.
+- **Matplotlib and Pyplot and Seaborn**: For static visualizations.
+- **Scikit Learn**: For Modeling.
+- **Jupyter Notebook**: The coding environment.
 
 ---
 
